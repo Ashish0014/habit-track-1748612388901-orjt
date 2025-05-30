@@ -1,0 +1,7 @@
+1. UI/UX Design:
+
+Use a tool like Figma or Adobe XD to create wireframes and mockups of the website. The design should be clean, modern, and focused on user experience. Make sure to design for both mobile and desktop versions.
+
+2. Project Setup:
+
+Create a new React project with Typescript and set up Tailwind CSS for styling.
